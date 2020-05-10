@@ -119,3 +119,6 @@ The Boost C++ Libraries一书的示例代码，examples目录下为本书的代�
 所有示例均已使用以下编译器进行了测试：Microsoft Visual Studio Professional 2013更新1（带有Service Pack 1的64位Windows 7 Professional），GCC 4.8.3（64位Cygwin 1.7.30），GCC 4.6.3（32） 位的Ubuntu 12.04.4）和Clang 3.3（32位的Ubuntu 12.04.4）。
 
 本书中的所有示例均基于C ++ 11标准。 在测试期间，所有编译器都配置为启用对C ++ 11的支持。 大多数示例都可以在Windows，Linux和OS X上运行，但有一些依赖于平台。 例外在示例描述中说明。
+
+## 注意
+本书基于Boost库1.55.0和1.56.0。 1.55.0版于2013年11月发布。由于Boost社区在2013年底从Subversion切换到Git，并且需要时间来适应发布过程，因此下一个版本1.56.0才在2014年8月发布。 这本书投产前两周。 由于1.55.0是九个月以来的最新版本，因此本书基于Boost 1.55.0。 但是，所有示例都已使用Boost 1.56.0进行了测试，并且所有示例都可以使用Boost 1.55.0或1.56.0进行编译。
