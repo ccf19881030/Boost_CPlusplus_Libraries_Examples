@@ -1,6 +1,6 @@
 # Boost_CPlusplus_Libraries_Examples
-The Boost C++ Libraries一书的示例代码，本仓库examples目录下为本书的代码示例，相关文章可以在[https://theboostcpplibraries.com/](https://theboostcpplibraries.com/)官网查看。
-The Boost C++ Libraries即Boost C++库英文在线地址为：[https://theboostcpplibraries.com/](https://theboostcpplibraries.com/)
+Boost库官网地址为：[http://www.boost.org/](http://www.boost.org/)
+The Boost C++ Libraries一书的示例代码，本仓库examples目录下为本书的代码示例，The Boost C++ Libraries对应的在线地址为：[https://theboostcpplibraries.com/](https://theboostcpplibraries.com/)
 以下是对应的书籍目录，如下：
 ## 目录
 ### [Preface](https://theboostcpplibraries.com/preface)
